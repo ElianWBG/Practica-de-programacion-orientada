@@ -206,7 +206,7 @@ Los prompts se declaran en `data/bloques_data.py` bajo la clave `"inputs"`, y el
 
 ## 🤖 Registro de uso de IA
 
-> **Herramienta utilizada:** Claude (Anthropic) — `claude.ai`
+> **Herramienta utilizada:** Claude (Anthropic) — `[claude.ai](https://claude.ai/share/176644e4-53f9-4f34-a612-20c4f73f5b67)`
 
 En esta conversación se estudiaron todos los bloques de la guía. Se usó Claude para entender los conceptos teóricos de cada tema, resolver dudas sobre el código, pedir ejemplos adicionales y practicar con ejercicios similares a los de la guía. El proceso seguido en cada bloque fue:
 
